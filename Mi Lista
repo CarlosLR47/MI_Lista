@@ -7,15 +7,62 @@ https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_
 https://live-edge01.telecentro.net.ar/live/c26.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/150px-A24_%282019-1%29.png" group-title="NOTICIAS", A24  36.3
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png" group-title="NORTE", AMERICA TUCUMAN 
+http://45.6.4.154/americatuc/vivo.m3u8
 #EXTINF:-1 group-title="NOTICIAS", TODO NOTICIAS   
 https://www.youtube.com/watch?v=wHn1_QVoXGM
 #EXTINF:-1 group-title="NOTICIAS", C5N  25.2
 https://www.youtube.com/watch?v=wlNWw5k14y8
 #EXTINF:-1 group-title="NOTICIAS", LN+  25.3
-https://www.youtube.com/watch?v=ns8-5XKA0Ww                 
+https://www.youtube.com/watch?v=ns8-5XKA0Ww 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="AMBA", AMERICA HD  36.1
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/small.tvp_2021_solo.png.8136b8c364a0c185fe56affb93450fa5.png" group-title="AMBA", TV PUBLICA  23.2 
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title="AMBA", CANAL 9  35.1 
 http://tv.nousiptv.com:8080/linodolega/12345/3438
+#EXTINF:-1 tvg-id="" tvg-name="06 | CANAL 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="ARGENTINA",06 | CANAL 9 HD
+http://1581.f5.si:8000/raul1957/BuLyqCxoQ5/3539
+#EXTINF:-1 tvg-id="" tvg-name="09 | CANAL 9 HD" tvg-logo="https://www.resistenciaurbana.com/wp-content/uploads/2020/06/84825-canal2b92bhd.png" group-title="ARGENTINA",09 | CANAL 9 HD
+http://1581.f5.si:8000/raul1957/BuLyqCxoQ5/3542
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="AMBA", TELEFE  34.1
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0064
+#EXTINF:-1 tvg-id="" tvg-name="03 | TELEFE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",03 | TELEFE 
+http://1581.f5.si:8000/raul1957/BuLyqCxoQ5/3536
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="AMBA", CANAL 13  33.1
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/120px-Net_TV_logo.png" group-title="AMBA", NET TV  27.2
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="AMBA", CANAL DE LA CIUDAD
+https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/150px-Logo_del_canal_Encuentro.svg.png" group-title="AMBA", CANAL ENCUENTRO 22.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="AMBA", GOURMET TV
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT
+https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Telefe_Santa_Fe.png/133px-Telefe_Santa_Fe.png" group-title="CENTRO", TELEFE SANTA FE
+https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1624528565~exp=1624704965~acl=/i/canal13santafe_1@751190/*~hmac=660a5162b64b21cf9274195c7ff0a8fa45f35cf6a0ba4d6f429e1e8927cee052
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
+https://rtvelivestream.akamaized.net/la1_main_dvr.m3u8
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
+https://rtvelivestream.akamaized.net/la1_bkp_dvr.m3u8
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
+https://rtvelivestream.akamaized.net/la2_main_dvr.m3u8
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
+https://rtvelivestream.akamaized.net/la2_bkp_dvr.m3u8
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/mtmad.es/picture?width=200&height=200" group-title="Generalistas" tvg-name="mtmad 24h",mtmad 24h
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos" tvg-name="24h",24h
+https://rtvelivestream.akamaized.net/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos" tvg-name="24h",24h
+https://rtvelivestream.akamaized.net/24h_bkp_dvr.m3u8
+#EXTINF:-1 tvg-id="TVGAL.TV" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="Galicia" tvg-name="TVG",TVG
+https://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="Galicia" tvg-name="TVG 2",TVG 2
+https://amodino-crtvg.flumotion.com/playlist.m3u
+
